@@ -1,6 +1,5 @@
-numpy==1.26.4
+numpy
 scikit-learn
 streamlit
 pandas
 matplotlib
-tensorflow-cpu
